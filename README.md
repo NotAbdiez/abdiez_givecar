@@ -1,4 +1,4 @@
-# 🚗 xinput_geimport
+# 🚗 abdiez_givecar
 
 ESX resource for giving vehicles to players’ garages with `/givecar`. Generates a plate and saves the vehicle to `owned_vehicles`.
 
@@ -12,8 +12,8 @@ ESX resource for giving vehicles to players’ garages with `/givecar`. Generate
 ## 📦 Requirements
 - ⚙️ ESX (`es_extended`)
 - 🗄️ oxmysql or mysql-async
-- 🛑 Resource name must be `xinput_geimport`
+- 🛑 Resource name must be `abdiez_givecar`
 
 ## ⚙️ Installation
-1. 📂 Place in `resources` as `xinput_geimport`
+1. 📂 Place in `resources` as `abdiez_givecar`
 2. 📝 Add to `server.cfg`:
